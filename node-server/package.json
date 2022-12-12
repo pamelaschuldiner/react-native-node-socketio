@@ -9,7 +9,7 @@
   "author": "Pamela González",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.15.2",
+    "express": "^4.17.3",
     "mongodb": "^3.5.2",
     "socket.io": "^2.3.0"
   }
